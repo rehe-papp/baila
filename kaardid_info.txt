@@ -1,0 +1,14 @@
+sõnaahel-Ütle üks sõna ning järgmine mängija ütleb esimese sõna ja lisab sinna enda sõna juurde. Sellest järgmine mängija kordab kõigi eelmiste mängijate sõnu samas järjekorras ja lisab ühe sõna veel otsa. nii jätkatakse, kuni kellelgi sassi läheb. See kellel sassi läks peab jooma.
+küsimustekuningas-Küsimusekuningas on inimene, kelle küsimustele ei tohi vastata. Kui keegi tema küsimustele vastab, peab see inimene, kes vastas, jooma. Juhul kui tal on meeles mitte vastata ja vastamise asemel ütleb: "Sina oled küsimusekuningas", peab hoopis Küsimusekuningas jooma. Küsimusekuninga tiitel kandub edasi mängijale, kes saab selle kaardi.
+kategooria-Vali üks kategooria, näiteks: muusika žanrid, õlle või kondoomi tootjad. Järgmine mängija peab ütlema ühe asja ja järgmised mängijad peavad sama tegema, kuni keegi enam midagi loendada ei suuda. See inimene peab oma joogist lonksu võtma
+kalla_klaasi-Kalla enda joogist natukene mänguklaasi. Neljanda kaardi võtja peab klaasi tühjaks jooma, jälgides ka väljamõeldud reegleid.
+rhyme-Ütle üks lause ja järgmine mängija peab sellele vastama mingisuguse lausega, mis riimuks eelneva lausega ja nii edasi. See mängija, kes kümne sekundi jooksul pole suutnud riimi välja mõelda, peab jooma. Riimid ei tohi korduda.
+jääd_vahele-Mängija, kes selle kaardi tiris, jääb ühe käigu vahele ja järgmine mängija võib kaardi võtta
+joo_ise-Võta enda joogist lonks.
+vali_kes_joob-Vali üks mängija, kes võtab oma joogist ühe lonksu.
+mehed_joovad-Kõik meestsoost isikud seltskonnas võtavad enda joogist ühe lonksu
+naised_joovad-Kõik naissoost isikud seltskonnast võtavad enda joogist ühe lonksu
+lõuakuningas-Lõuakuningal on õigus, mistahes aja hetkel, lõuast kinni võtta. Siis peavad kõik teised ka lõuast kinni võtma. Kes viimaseks jääb, peab jooma. Tiitel kandub edasi mängijale, kes võtab uue "lõuakuninga" kaardi.
+reegel-Mõtle üks reegel, kuidas jooma peab. Soovitatav on mõelda midagi, kus ei pea palju liikuma, näiteks lause/sõna ütlemine enne joomist, või mingisugused käe žestid, näiteks ainult vasaku käega võib juua. Reegel jääb kehtima mängu lõpuni ja uued reeglid lisanduvad juurde. Reeglid kehtivad ka "kose" ajal
+kosk-Vali mis suunas kosk voolab. Seejärel hakkavad kõik ühel ajal jooma. Kui see inimene, kes "Kose" sai, lõpetab, võib temast järgmine inimene joomise lõpetada jne. Kõik teised peavad samal ajal ikka edasi jooma. Enne "Kose" alustamist tuleb kõigil topsid ära täita või piisavalt täis pudel ette võtta.
+konfiskeeri-Mängija võib ühe lonksu, riideeseme või mis iganes ta ihaldab teiselt mängijalt konfiskeerida. Kaasa arvatud lõuakuninga või küsimusekuninga tiitli. Soovist saab keelduda võttes üks lonks joogist.
